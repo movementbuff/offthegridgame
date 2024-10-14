@@ -52,7 +52,7 @@ r.Tonemapper.Sharpen=1.1
 # Troubleshooting:
 Map loading incorrectly, weird graphical glitches, character stuck inside the road? Your CPU is likely too weak for the aggressive level streaming commands. 
 Slightly increase these values until the issue is resolved:
-
+-
 s.AsyncLoadingTimeLimit=0.2
 
 s.PriorityAsyncLoadingExtraTime=0.3
@@ -63,6 +63,21 @@ s.PriorityLevelStreamingActorsUpdateExtraTime=0.8
 
 s.UnregisterComponentsTimeLimit=0.2
 Do this by values of 0.1 or 0.2.
+
+Have an old GPU like a 1660, 1080, 2060?
+-
+Try lowering the value of this command in increments of 1024.
+
+r.Streaming.PoolSize=
+It's currently set to 3072. For most users this should be fine.
+Do not set it to 0.
+
+
+View Distance too low?
+-
+Increase the value of this command. Do not set it lower, and do not set it higher than 2.
+
+"r.ViewDistanceScale="
 
 Twitch. https://www.twitch.tv/movementbuff
 
