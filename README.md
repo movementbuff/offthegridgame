@@ -62,7 +62,7 @@ Edit this command from your Engine.ini underneath " [SystemSettings] " if you wi
 r.Tonemapper.Sharpen=1.1
 
 Map loading incorrectly, weird graphical glitches, character stuck inside the road? Your CPU is likely too weak for the aggressive level streaming commands. 
-Slightly increase these values until the issue is resolved:
+Slightly increase these values in increments of 0.1 or 0.2 until the issue is resolved:
 -
 s.AsyncLoadingTimeLimit=0.2
 
@@ -73,9 +73,9 @@ s.LevelStreamingActorsUpdateTimeLimit=0.2
 s.PriorityLevelStreamingActorsUpdateExtraTime=0.8
 
 s.UnregisterComponentsTimeLimit=0.2
-Do this by values of 0.1 or 0.2.
 
-Have an old GPU like a 1660, 1080, 2060?
+
+Have an older GPU like a GTX 1660,  GTX 1080, RTX 2060 or Radeon RX 590, Rx 5600xt etc?
 -
 Try lowering the value of this command in increments of 1024.
 
