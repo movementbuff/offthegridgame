@@ -21,11 +21,7 @@ Press Windows Key + R and type %localappdata%\G01\Saved\Config\WindowsClient the
 
 Copy and Backup the file "GameUserSettings" to somewhere memorable.
 
-Press Windows Key + R again and type C:\Users then press enter.
-
-Open the folder that is the name of your Windows User. You should have 2 or 3 folders. Public, Default, and a third folder. (Default may be hidden)
-
-Scroll down and open the folder "Saved Games" then open "OTG"
+Press Windows Key + R again and type Saved Games\OTG then press enter.
 
 Copy and Backup the file "GzGameUserSettings" to somewhere memorable.
 
