@@ -1,7 +1,7 @@
 # Movementbuff's Competitive Config for Off The Grid 
 
 
-> > >  Follow along here with Video Guide https:// Unreleased  < < < 
+>  Follow along here with Video Guide https:// Unreleased  
        
 
 
@@ -44,12 +44,17 @@ DLSS is Enabled in this config and set to "Performance". If you wish to change t
 IF YOU WANT TO CHANGE YOUR GUN SENSITIVITY, VOLUME, OR ANY OTHER SETTINGS, YOU WILL ALSO NEED TO DO THIS BY REMOVING READ-ONLY FROM THE FILE PROPERTIES AND RE-APPLYING ONCE CHANGED.
 -
 
-Edit this commands from your Engine.ini underneath " [SystemSettings] " if you wish to increase or decrease the level of Sharpening. (higher values sharper, lower more blurry)
+
+
+# Troubleshooting and User Preferences:
+
+
+Want to increase or decrease the Sharpness of the image?
+-
+Edit this command from your Engine.ini underneath " [SystemSettings] " if you wish to increase or decrease the level of Sharpening. (higher values sharper, lower more blurry)
 
 r.Tonemapper.Sharpen=1.1
 
-
-# Troubleshooting:
 Map loading incorrectly, weird graphical glitches, character stuck inside the road? Your CPU is likely too weak for the aggressive level streaming commands. 
 Slightly increase these values until the issue is resolved:
 -
@@ -68,17 +73,21 @@ Have an old GPU like a 1660, 1080, 2060?
 -
 Try lowering the value of this command in increments of 1024.
 
-r.Streaming.PoolSize=
-It's currently set to 3072. For most users this should be fine.
+r.Streaming.PoolSize=3072
+For most users the current value of 3072 should be fine.
 Do not set it to 0.
 
 
 View Distance too low?
 -
-Increase the value of this command. Do not set it lower, and do not set it higher than 2.
+Increase the value of this command. Do not set it lower than 0.4, and do not set it higher than 2.
 
 "r.ViewDistanceScale="
 
+When changing settings inside the config, be mindful of making changes that result in a broken appearance of the game. 
+For example; if you change a setting and suddenly can see through walls, do not use that command. Your account will receive a temporary ban, and eventually the Developers will prevent the entire community from being able to utilise custom configs by restricting the ability for the game to read them.
+We all want and deserve to play this game with consistent and high end framerates so ensure you conduct yourself and changes you make responsibly.
+-
 Twitch. https://www.twitch.tv/movementbuff
 
 YouTube. https://www.youtube.com/@movementbuff
