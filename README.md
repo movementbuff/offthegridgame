@@ -11,7 +11,7 @@ First, on the right side of this page, right-click "Movementbuff's Competitive C
 In that tab, left-click "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini" and "GzGameUserSettings.json". This will download the config files.
 Once you have downloaded each file, close the "Releases" tab.
 
- YOU MAY NEED TO GOTO YOUR DOWNLOADS TOP RIGHT OF YOUR BROWSER AND SELECT "UNBLOCK/DOWNLOAD UNVERIFIED FILE" FOR EACH FILE. < < <
+ YOU MAY NEED TO GOTO THE TOP RIGHT OF YOUR BROWSER AND SELECT DOWNLOADS THEN LEFTCLICK EACH FILE AND SELECT "UNBLOCK/DOWNLOAD UNVERIFIED FILE"  < < <
 -
 
 # Pre-Installation of Config:
