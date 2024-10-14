@@ -6,13 +6,13 @@
 
 
 # Downloading the Config:
-First, on the right side of this page, right-click "Movementbuff's Competitive Config" underneath "Releases" and select 'Open in New Tab'
-Alternatively, open this link in a new tab:  https://github.com/movementbuff/offthegridgame/releases
+- First, on the right side of this page, right-click "Movementbuff's Competitive Config" underneath "Releases" and select 'Open in New Tab'
+  Alternatively, open this link in a new tab:  https://github.com/movementbuff/offthegridgame/releases
 
-In that tab, left-click "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini" and "GzGameUserSettings.json". This will download the config files.
-Once you have downloaded each file, close the "Releases" tab.
+- In that tab, left-click "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini" and "GzGameUserSettings.json". This will download the config files.
+  Once you have downloaded each file, close the "Releases" tab.
 
- YOU MAY NEED TO GOTO THE TOP RIGHT OF YOUR BROWSER AND SELECT DOWNLOADS THEN LEFTCLICK EACH FILE AND SELECT "UNBLOCK/DOWNLOAD UNVERIFIED FILE"  < < <
+ You will need to goto the top right of your browser and select Downloads then Left-Click each file and select "Unblock/Download unverified file" 
 -
 
 
