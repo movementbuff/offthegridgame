@@ -14,6 +14,8 @@ Once you have downloaded each file, close the "Releases" tab.
  YOU MAY NEED TO GOTO THE TOP RIGHT OF YOUR BROWSER AND SELECT DOWNLOADS THEN LEFTCLICK EACH FILE AND SELECT "UNBLOCK/DOWNLOAD UNVERIFIED FILE"  < < <
 -
 
+
+
 # Pre-Installation of Config:
 Press Windows Key + R and type %localappdata%\G01\Saved\Config\WindowsClient then press enter.
 
