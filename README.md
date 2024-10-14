@@ -18,27 +18,28 @@
 
 
 # Pre-Installation of Config:
-Press Windows Key + R and type **%localappdata%\G01\Saved\Config\WindowsClient** then press enter.
+- Press Windows Key + R and type **%localappdata%\G01\Saved\Config\WindowsClient** then press enter.
 
-Copy and Backup the file **"GameUserSettings"** to somewhere memorable.
+- Copy and Backup the file **"GameUserSettings"** to somewhere memorable.
 
-Press Windows Key + R again and type **Saved Games\OTG** then press enter.
+- Press Windows Key + R again and type **Saved Games\OTG** then press enter.
 
-Copy and Backup the file **"GzGameUserSettings"** to somewhere memorable.
+- Copy and Backup the file **"GzGameUserSettings"** to somewhere memorable.
 
-> > > Leave your backups alone unless you seek to restore your previous settings. < < < 
+**Leave your backups alone unless you seek to restore your previous settings.**
 
 # Installation of Config files:
 
-Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** Press Enter ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"** and **"GameUserSettings.ini"** from the location your downloaded them. ( Typically this is the Downloads folder, quickly navigate there by **Pressing Windows Key + R and typing Downloads**. Press Enter. )
+- Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** Press Enter ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"** and 
+ **"GameUserSettings.ini"** from the location your downloaded them. ( Typically this is the Downloads folder, quickly navigate there by **Pressing Windows Key + R and typing 
+ Downloads**. Press Enter. )
 
-Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** Press Enter ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"** and **"GameUserSettings.ini"** from the location your downloaded them. ( Typically this is the Downloads folder, quickly navigate there by **Pressing Windows Key + R and typing Downloads**. Press Enter. )
 
-After Pasting each file, Right click each file and Select "Properties". **Tick the box "Unblock" if visible and ensure that "Read Only" is ticked/enabled.**
+- After Pasting each file, Right click each file and Select "Properties". **Tick the box "Unblock" if visible and ensure that "Read Only" is ticked/enabled.**
 
-Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded.
+- Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded.
 
-Perform the same check as you did before to verify that Read Only is enabled on both files and they are Unblocked.
+- Perform the same check as you did before to verify that Read Only is enabled on both files and they are Unblocked.
 
 # Changing Settings ingame such as Sensitivity or Preferences
 
