@@ -2,7 +2,7 @@
 
 
 > > >  Follow along here with Video Guide https://www.youtube.com/watch?v=7SXHlt0s8yA  < < < 
-       ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+       
 
 
 # Downloading the Config:
