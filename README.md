@@ -41,7 +41,7 @@ Perform the same check as you did before to verify that Read Only is enabled on 
 
 DLSS is Enabled in this config and set to "Performance". If you wish to change this to another Quality level, or use FSR/TSR, you will need to open the game, minimise it once you have loaded to the Menu, right-click the GzGameUserSettings.json file and untick read only. Then return to the game, make your changes in the menu and apply them, before minimising the game again and setting "GzGameUserSettings.json" back to read-only.  
 
-IF YOU WANT TO CHANGE YOUR GUN SENSITIVITY, VOLUME, OR ANY OTHER SETTINGS, YOU WILL ALSO NEED TO DO THIS BY REMOVING READ-ONLY FROM THE FILES PROPERTIES AND RE-APPLYING ONCE CHANGED.
+IF YOU WANT TO CHANGE YOUR GUN SENSITIVITY, VOLUME, OR ANY OTHER SETTINGS, YOU WILL ALSO NEED TO DO THIS BY REMOVING READ-ONLY FROM THE FILE PROPERTIES AND RE-APPLYING ONCE CHANGED.
 -
 
 Edit this commands from your Engine.ini underneath " [SystemSettings] " if you wish to increase or decrease the level of Sharpening. (higher values sharper, lower more blurry)
