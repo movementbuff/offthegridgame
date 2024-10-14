@@ -12,7 +12,7 @@
 - In that tab, left-click "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini" and "GzGameUserSettings.json". This will download the config files.
   Once you have downloaded each file, close the "Releases" tab.
 
-- # You will need to goto the top right of your browser and select Downloads then Left-Click each file and select "Unblock/Download unverified file" 
+- ** You will need to goto the top right of your browser and select Downloads then Left-Click each file and select "Unblock/Download unverified file" **
   
 
 
