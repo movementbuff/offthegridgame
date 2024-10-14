@@ -37,7 +37,7 @@
  Downloads**.  )
 
 
-- After Pasting each file, Right click each file and Select "Properties". **Tick the box "Unblock" if visible and ensure that "Read Only" is ticked/enabled.**
+- After Pasting the files into the folder, Right click each file and Select "Properties". Tick the box **"Unblock"** if visible and ensure that **"Read Only" is ticked/enabled.**
 
 - Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded.
 
