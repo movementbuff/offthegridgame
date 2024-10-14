@@ -32,6 +32,8 @@ Copy and Backup the file **"GzGameUserSettings"** to somewhere memorable.
 
 Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** Press Enter ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"** and **"GameUserSettings.ini"** from the location your downloaded them. ( Typically this is the Downloads folder, quickly navigate there by **Pressing Windows Key + R and typing Downloads**. Press Enter. )
 
+Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** Press Enter ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"** and **"GameUserSettings.ini"** from the location your downloaded them. ( Typically this is the Downloads folder, quickly navigate there by **Pressing Windows Key + R and typing Downloads**. Press Enter. )
+
 After Pasting each file, Right click each file and Select "Properties". **Tick the box "Unblock" if visible and ensure that "Read Only" is ticked/enabled.**
 
 Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded.
