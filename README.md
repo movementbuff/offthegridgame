@@ -32,6 +32,7 @@
 
 - Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** Press Enter ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"** and 
  **"GameUserSettings.ini"** from the location your downloaded them.
+  
 ( Typically this is the Downloads folder, quickly navigate there by **Pressing Windows Key + R and typing 
  Downloads**. Press Enter. )
 
