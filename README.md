@@ -78,7 +78,7 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 
  
 
-- Save and exit the file. Do ***not*** set the file to Read Only. This is important as doing so would not allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu!
+- Save and exit the file. Do ***NOT*** set the file to Read Only. This is important as doing so would not allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu!
 
 
 # Changing Settings ingame 
