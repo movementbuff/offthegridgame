@@ -1,5 +1,6 @@
 # Movementbuff's Competitive Config for Off The Grid 
-
+Don't forget to follow me on Twitch <3
+https://www.twitch.tv/movementbuff
 
 >  Follow along here with Video Guide https:// Unreleased  
        
@@ -92,7 +93,7 @@ Increase the value of this command. Do not set it lower than 0.4, and do not set
 "r.ViewDistanceScale="
 
 When changing settings inside the config, be mindful of making changes that result in a broken appearance of the game. 
-For example; if you change a setting and suddenly can see through walls, do not use that command. Your account will receive a suspension, and eventually the Developers will prevent the entire community from being able to utilise custom configs by restricting the ability for the game to read them.
+For example; if you could change a setting and as a result are able to see through walls, do not use that command. Your account *will* receive a suspension, and eventually *the Developers will prevent the entire community from being able to utilise custom configs by restricting the ability for the game to read them.*
 We all want and deserve to play this game with consistent and high end framerates so ensure you conduct yourself and changes you make responsibly.
 -
 Twitch. https://www.twitch.tv/movementbuff
