@@ -92,6 +92,12 @@ Increase the value of this command. Do not set it lower than 0.4, and do not set
 
 "r.ViewDistanceScale="
 
+Your character appears too pixellated now and you want Ninja to look high quality again?
+-
+
+Remove the file "DeviceProfiles.ini"
+The game appears to not utilise it fully anyway and from what I can see, DeviceProfiles.ini is only affecting character, UI, and maybe some occasional Effects in the distance. Feel free to remove it but I can't promise FPS stutter won't worsen as a result.
+
 When changing settings inside the config, be mindful of making changes that result in a broken appearance of the game. 
 For example; if you could change a setting and as a result are able to see through walls, do not use that command. Your account *will* receive a suspension, and eventually *the Developers will prevent the entire community from being able to utilise custom configs by restricting the ability for the game to read them.*
 We all want and deserve to play this game with consistent and high end framerates so ensure you conduct yourself and changes you make responsibly.
