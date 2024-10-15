@@ -30,7 +30,7 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 
 - Copy and Backup the file **"GzGameUserSettings"** to somewhere memorable.
 
-**Leave your backups alone unless you seek to restore your previous settings.**
+**You *WILL* need your backups so you can maintain your sensitivity and volume settings later in the guide. Make sure to do this step!**
 
 # Installation of Config files:
 - Press Windows Key + R and type Downloads then press enter.
@@ -43,6 +43,8 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 - Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded aswell as placing *another* copy of **"Help.txt"**.
 
 - Ensure that the file **"GzGameuserSettings.json"** is ***not*** set to Read Only. This is important as it will allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu without having to edit this file!
+
+- Return to the location of your backed up files and open "GzGameUserSettings.json"
 
 # Changing Settings ingame 
 
