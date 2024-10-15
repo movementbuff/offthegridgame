@@ -33,13 +33,10 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 **Leave your backups alone unless you seek to restore your previous settings.**
 
 # Installation of Config files:
+- Press Windows Key + R and type Downloads then press enter.
 
 - Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"**,
  **"GameUserSettings.ini"** and a copy of **"Help.txt"** from the location you downloaded them to.
-  
-( Typically this is the Downloads folder, quickly navigate there by **Pressing Windows Key + R and typing 
- Downloads**.  )
-
 
 - After Pasting the files into the folder, Right click each file ( except for Help.txt ) and Select "Properties". Tick the box **"Unblock"** if visible and ensure that **"Read Only" is ticked/enabled.**
 
