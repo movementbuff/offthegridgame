@@ -48,7 +48,7 @@
 ***Do NOT change any graphic settings ingame except for "Resolution Scaling Method","DLSS/FSR Mode", "Resolution", "Monitor/Display" or "Fullscreen/Borderless".***
 -
 DLSS is Enabled in this config and set to "Performance". Raise this to Balanced if you want to have greater image clarity at range. 
-From my testing; the image quality DLSS provides ( on my system ) is superior in clarity to FSR3 whilst achieving the same or better performance. I recommend using DLSS, but you're free to try other options or completely disable upscaling if you wish. You may want to lower the Sharpening as per the following instructions in "# Troubleshooting" if you choose to use FSR.
+From my testing; the image quality DLSS provides ( on my system ) is superior in clarity to FSR3 whilst achieving the same or better performance. I recommend using DLSS, but you're free to try other options or completely disable upscaling if you wish. You may want to lower the Sharpening as per the following instructions in "Troubleshooting and User Preferences" if you choose to use FSR.
 
 
 
