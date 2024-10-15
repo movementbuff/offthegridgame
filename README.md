@@ -42,7 +42,7 @@ https://www.twitch.tv/movementbuff
 
 - Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded.
 
-- Perform the same check as you did before to verify that Read Only is enabled on both files and they are Unblocked.
+- Ensure that the file **"GzGameuserSettings.json"** - and ONLY that file - is ***not*** set to Read Only. This is important as it will allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu without having to edit this file!
 
 # Changing Settings ingame 
 
