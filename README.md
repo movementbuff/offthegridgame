@@ -13,7 +13,7 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 
 - In that tab, left-click "GzGameUserSettings.json" and "Help.txt". To download the remaining config files, you will need to left-click each 
   one, then goto the top right of your browser and select Downloads -> Left-Click the file -> select "Unblock/Download unverified file"
-  **Do this one by one for each file "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini".**
+  Do this **one by one** for each file **"DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini".**
   Once you have downloaded each file, close the "Releases" tab.
 
   
