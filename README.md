@@ -43,12 +43,13 @@
 
 - Perform the same check as you did before to verify that Read Only is enabled on both files and they are Unblocked.
 
-# Changing Settings ingame such as Sensitivity or Preferences
+# Changing Settings ingame 
 
-DLSS is Enabled in this config and set to "Performance". If you wish to change this to another Quality level, or use FSR/TSR, you will need to open the game, minimise it once you have loaded to the Menu, right-click the GzGameUserSettings.json file and untick read only. Then return to the game, make your changes in the menu and apply them, before minimising the game again and setting "GzGameUserSettings.json" back to read-only.  
-
-IF YOU WANT TO CHANGE YOUR GUN SENSITIVITY, VOLUME, OR ANY OTHER SETTINGS, YOU WILL ALSO NEED TO DO THIS BY REMOVING READ-ONLY FROM THE FILE PROPERTIES AND RE-APPLYING ONCE CHANGED.
+***Do NOT change any graphic settings ingame except for "Resolution Scaling Method","DLSS/FSR Mode", "Resolution", "Monitor/Display" or "Fullscreen/Borderless".***
 -
+DLSS is Enabled in this config and set to "Performance". Raise this to Balanced if you want to have greater image clarity at range. 
+From my testing; the image quality DLSS provides ( on my system ) is superior in clarity to FSR3 whilst achieving the same or better performance. I recommend using DLSS, but you're free to try other options or completely disable upscaling if you wish. You may want to lower the Sharpening as per the following instructions in "# Troubleshooting" if you choose to use FSR.
+
 
 
 
