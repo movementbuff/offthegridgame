@@ -49,15 +49,25 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 
 
       "viewDistanceQuality": 0,
+   
        "antiAliasingQuality": 0,
+   
 	"textureQuality": 0,
+
 	"shadowQuality": 0,
+
 	"effectsQuality": 0,
+
 	"globalIlluminationQuality": 0,
+
 	"reflectionQuality": 0,
+
 	"postProcessQuality": 0,
+
 	"foliageQuality": 0,
+
 	"shadingQuality": 0,
+
 	"displayGamma": 1.7000000476837158,
 	"bUseVSync": false,
 	"resolutionScalingMethod": "DLSSResolutionScaling",
