@@ -11,7 +11,7 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 - First, on the right side of this page, right-click "Movementbuff's Competitive Config" underneath "Releases" and select 'Open in New Tab'
   Alternatively, open this link in a new tab:  https://github.com/movementbuff/offthegridgame/releases
 
-- In that tab, Right-Click and select "Open in new tab" for the two files "GzGameUserSettings.json" and "Help.txt".  To download the remaining config files, you will 
+- In that tab, Right-Click and select "Open in new tab" for the file "Help.txt".  To download the remaining config files, you will 
   need to open "DeviceProfiles.ini", Engine.ini" , and "GameUserSettings.ini" in a new tab, then goto the top right of your browser and select Downloads where you should see three instances of 
   "Unverified Download Blocked". You will need to left-click each one and select "Download Unverified File". Ensure you do this for **"Engine.ini"** , **"DeviceProfiles.ini"** and **"GameUserSettings.ini"** .
   
@@ -40,11 +40,43 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 
 - After Pasting the files into the folder, Right click each file ( except for Help.txt ) and Select "Properties". Tick the box **"Unblock"** if visible and ensure that **"Read Only" is ticked/enabled.**
 
-- Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded aswell as placing *another* copy of **"Help.txt"**.
+- Inside the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and place another copy of **"Help.txt"** inside the folder, 
+  then Right-Click **"GzGameUserSettings.json"**, select Properties and ensure Read Only is ***NOT*** ticked.
 
-- Ensure that the file **"GzGameuserSettings.json"** is ***not*** set to Read Only. This is important as it will allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu without having to edit this file!
+-  Open the file **"GzGameUserSettings.json"** with Notepad.
 
-- Return to the location of your backed up files and open "GzGameUserSettings.json"
+-  You should see a large list of settings and their current values. Look for these entries and set the values to match the ones shown:
+
+
+      "viewDistanceQuality": 0,
+       "antiAliasingQuality": 0,
+	"textureQuality": 0,
+	"shadowQuality": 0,
+	"effectsQuality": 0,
+	"globalIlluminationQuality": 0,
+	"reflectionQuality": 0,
+	"postProcessQuality": 0,
+	"foliageQuality": 0,
+	"shadingQuality": 0,
+	"displayGamma": 1.7000000476837158,
+	"bUseVSync": false,
+	"resolutionScalingMethod": "DLSSResolutionScaling",
+	"resolutionScaleValue": 0,
+	"antiAliasingMethod": 0,
+	"dLSSMode": 5,
+
+- Next, scroll down towards the bottom of the file and set these entries to match the values shown.
+
+	"hideoutMeshMinLODQuality": 0,
+	"gameMeshMinLODQuality": 0,
+	"bMotionBlurActive": false,
+	"bIsPerformanceMode": true,
+	"bHardwareRayTracingEnabled": false,
+
+ 
+
+- Save and exit the file. Do ***not*** set the file to Read Only. This is important as doing so would not allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu!
+
 
 # Changing Settings ingame 
 
