@@ -48,40 +48,30 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 -  You should see a large list of settings and their current values. Look for these entries and set the values to match the ones shown:
 
 
-      "viewDistanceQuality": 0,
-   
+       "viewDistanceQuality": 0,
        "antiAliasingQuality": 0,
-   
-	"textureQuality": 0,
-
-	"shadowQuality": 0,
-
-	"effectsQuality": 0,
-
-	"globalIlluminationQuality": 0,
-
-	"reflectionQuality": 0,
-
-	"postProcessQuality": 0,
-
-	"foliageQuality": 0,
-
-	"shadingQuality": 0,
-
-	"displayGamma": 1.7000000476837158,
-	"bUseVSync": false,
-	"resolutionScalingMethod": "DLSSResolutionScaling",
-	"resolutionScaleValue": 0,
-	"antiAliasingMethod": 0,
-	"dLSSMode": 5,
+        "textureQuality": 0,
+        "shadowQuality": 0,
+        "effectsQuality": 0,
+        "globalIlluminationQuality": 0,
+        "reflectionQuality": 0,
+        "postProcessQuality": 0,
+        "foliageQuality": 0,
+        "shadingQuality": 0,
+        "displayGamma": 1.7000000476837158,
+        "bUseVSync": false,
+        "resolutionScalingMethod": "DLSSResolutionScaling",
+        "resolutionScaleValue": 0,
+        "antiAliasingMethod": 0,
+        "dLSSMode": 5,
 
 - Next, scroll down towards the bottom of the file and set these entries to match the values shown.
 
-	"hideoutMeshMinLODQuality": 0,
-	"gameMeshMinLODQuality": 0,
-	"bMotionBlurActive": false,
-	"bIsPerformanceMode": true,
-	"bHardwareRayTracingEnabled": false,
+       "hideoutMeshMinLODQuality": 0,
+       "gameMeshMinLODQuality": 0,
+       "bMotionBlurActive": false,
+       "bIsPerformanceMode": true,
+       "bHardwareRayTracingEnabled": false,
 
  
 
