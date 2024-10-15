@@ -15,7 +15,7 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
   Alternatively, open this link in a new tab:  https://github.com/movementbuff/offthegridgame/releases
 
 - In that tab, Right-Click and select "Open in new tab" for the file "Help.txt".  To download the remaining config files, you will 
-  need to open "DeviceProfiles.ini", Engine.ini" , and "GameUserSettings.ini" in a new tab, then goto the top right of your browser and select Downloads where you should see three instances of 
+  need to open "DeviceProfiles.ini", "Engine.ini" , and "GameUserSettings.ini" in a new tab, then goto the top right of your browser and select Downloads where you should see three instances of 
   "Unverified Download Blocked". You will need to left-click each one and select "Download Unverified File". Ensure you do this for **"Engine.ini"** , **"DeviceProfiles.ini"** and **"GameUserSettings.ini"** .
   
   Once you have downloaded each file, close the "Releases" tab.
