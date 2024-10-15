@@ -1,8 +1,8 @@
-# Movementbuff's Competitive Config for Off The Grid 
-Don't forget to follow me on Twitch <3
-https://www.twitch.tv/movementbuff
+# Movementbuff's Competitive Config for Off The Grid with Video Tutorial
+Follow along here with the Video Tutorial!
 
->  Follow along here with Video Guide https:// Unreleased  
+>  Don't forget to follow me on Twitch <3
+https://www.twitch.tv/movementbuff
        
 
 
