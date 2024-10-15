@@ -4,7 +4,8 @@ Follow along here with the Video Tutorial!
 >  Don't forget to follow me on Twitch <3
 https://www.twitch.tv/movementbuff
        
-
+This config will raise your AVG FPS but more importantly will reduce the severity of stutters and how low your FPS drops. 
+Some users may notice similar AVG FPS to their previous settings, however you WILL see a great improvement to performance during fights and "stutter prone" instances throughout your encounters on Teardrop Island.
 
 # Downloading the Config:
 - First, on the right side of this page, right-click "Movementbuff's Competitive Config" underneath "Releases" and select 'Open in New Tab'
