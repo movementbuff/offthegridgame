@@ -11,10 +11,11 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 - First, on the right side of this page, right-click "Movementbuff's Competitive Config" underneath "Releases" and select 'Open in New Tab'
   Alternatively, open this link in a new tab:  https://github.com/movementbuff/offthegridgame/releases
 
-- In that tab, left-click "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini", "GzGameUserSettings.json" and "Help.txt". This will download the config files.
+- In that tab, left-click "GzGameUserSettings.json" and "Help.txt". To download the remaining config files, you will need to left-click each 
+  one, then goto the top right of your browser and select Downloads -> Left-Click the file -> select "Unblock/Download unverified file"
+  **Do this one by one for each file "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini".**
   Once you have downloaded each file, close the "Releases" tab.
 
-- **You will need to goto the top right of your browser and select Downloads then Left-Click each file and select "Unblock/Download unverified file"**
   
 
 
