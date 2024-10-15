@@ -11,7 +11,7 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 - First, on the right side of this page, right-click "Movementbuff's Competitive Config" underneath "Releases" and select 'Open in New Tab'
   Alternatively, open this link in a new tab:  https://github.com/movementbuff/offthegridgame/releases
 
-- In that tab, left-click "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini" and "GzGameUserSettings.json". This will download the config files.
+- In that tab, left-click "DeviceProfiles.ini", "Engine.ini", "GameUserSettings.ini", "GzGameUserSettings.json" and "Help.txt". This will download the config files.
   Once you have downloaded each file, close the "Releases" tab.
 
 - **You will need to goto the top right of your browser and select Downloads then Left-Click each file and select "Unblock/Download unverified file"**
@@ -32,18 +32,18 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 
 # Installation of Config files:
 
-- Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"** and 
- **"GameUserSettings.ini"** from the location your downloaded them.
+- Inside "WindowsClient" folder ( **Windows Key + R  %localappdata%\G01\Saved\Config\WindowsClient** ) copy and paste **"Engine.ini"** , **"DeviceProfiles.ini"**,
+ **"GameUserSettings.ini"** and a copy of **"Help.txt"** from the location you downloaded them to.
   
 ( Typically this is the Downloads folder, quickly navigate there by **Pressing Windows Key + R and typing 
  Downloads**.  )
 
 
-- After Pasting the files into the folder, Right click each file and Select "Properties". Tick the box **"Unblock"** if visible and ensure that **"Read Only" is ticked/enabled.**
+- After Pasting the files into the folder, Right click each file ( except for Help.txt ) and Select "Properties". Tick the box **"Unblock"** if visible and ensure that **"Read Only" is ticked/enabled.**
 
-- Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded.
+- Return to the G01 folder ( **Windows Key + R Saved Games\OTG**   Press Enter ) and replace **"GzGameUserSettings.json"** with the version you downloaded aswell as placing *another* copy of **"Help.txt"**.
 
-- Ensure that the file **"GzGameuserSettings.json"** - and ONLY that file - is ***not*** set to Read Only. This is important as it will allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu without having to edit this file!
+- Ensure that the file **"GzGameuserSettings.json"** is ***not*** set to Read Only. This is important as it will allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu without having to edit this file!
 
 # Changing Settings ingame 
 
