@@ -1,6 +1,7 @@
 **Updated 16th Oct 2024: Fixed broken UI on compass and potentially paralyser effect**
 # Movementbuff's Competitive Config for Off The Grid with Video Tutorial
 Follow along here with the Video Tutorial!
+https://youtu.be/OZDg6I79BQc
 
 >  Don't forget to follow me on Twitch <3
 https://www.twitch.tv/movementbuff
