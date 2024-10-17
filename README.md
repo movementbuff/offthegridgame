@@ -67,8 +67,10 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
         "resolutionScalingMethod": "DLSSResolutionScaling",
         "resolutionScaleValue": 0,
         "antiAliasingMethod": 0,
-        "dLSSMode": 5,
+        "dLSSMode": 6,
 
+- ***dLSSMode should now be set to 6,*** not 5 as mentioned in the installation guide on youtube as an optimization patch has just released which has changed this.     
+ Set it to 6 rather than 5
 - Next, scroll down towards the bottom of the file and set these entries to match the values shown.
 
        "hideoutMeshMinLODQuality": 0,
