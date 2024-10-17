@@ -1,4 +1,4 @@
-**Updated 17th Oct 2024: Changed DLSS Mode to 6 Value as the recent patch has changed the definition of the values.**
+**Updated 17th Oct 2024: Changed DLSS Mode value to "6" as the recent patch has changed the definition of the values.**
 
 **Updated 16th Oct 2024: Fixed broken UI on compass and potentially paralyser effect**
 # Movementbuff's Competitive Config for Off The Grid with Video Tutorial
