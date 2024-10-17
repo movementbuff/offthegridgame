@@ -1,6 +1,9 @@
-**Updated 17th Oct 2024: Changed DLSS Mode value to "6" as the recent patch has changed the definition of the values.**
 
-**Updated 16th Oct 2024: Fixed broken UI on compass and potentially paralyser effect**
+
+**Updated 17th Oct 2024: Changed DLSS Mode value to "6" as the recent patch has changed the definition of the values.** 
+
+**Updated 16th Oct 2024: Fixed broken UI on compass and potentially paralyser effect** Redownload "DeviceProfiles.ini" to update
+
 # Movementbuff's Competitive Config for Off The Grid with Video Tutorial
 Follow along here with the Video Tutorial!
 https://youtu.be/OZDg6I79BQc
