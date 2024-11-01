@@ -1,4 +1,4 @@
-
+**Updated 1st Nov 2024: Clearly explained how AMD GPU users can use FSR instead of being confused about DLSS, added info regarding Shadows and improving the appearance of the game.**
 
 **Updated 17th Oct 2024: Changed DLSS Mode value to "6" as the recent patch has changed the definition of the values.** 
 
@@ -98,6 +98,34 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
  
 
 - Save and exit the file. Do ***NOT*** set the file to Read Only. This is important as doing so would not allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu!
+  
+
+- If you wish to improve the appearance of the game, you can re-enable shadows. This greatly improves the quality of the image and can help with spotting players *at the cost of some performance* ( 10-30% depending on system )
+To do this,
+	- Right click Engine.ini located in **%localappdata%\G01\Saved\Config\WindowsClient** and select properties then disable 
+             Read Only and press Ok.
+	- Open Engine.ini in Notepad and remove these entries (You will find them under [SystemSettings]
+ 	
+		r.ShadowQuality=0
+		r.Shadow.CSM.MaxCascades=0
+		r.Shadow.DistanceScale=-1
+		r.Shadow.CSM.TransitionScale=0
+		r.DistanceFieldShadowing=0
+		r.Shadows.SpotLightTransitionScale=1
+		r.Shadow.MaxResolution=0
+		r.Shadow.MaxCSMResolution=0
+		r.MaxCSMRadiusToAllowPerObjectShadows=0.01
+		r.Shadow.RadiusThresholdRSM=0
+		r.Shadow.SpotLightDepthBias=0
+		r.Shadow.TexelsPerPixel=0
+		r.Shadow.PerObject=0
+		r.AllowLandscapeShadows=0
+		r.DFShadowScatterTileCulling=0
+		r.ParallelShadows=0
+		r.Shadow.FadeExponent=1
+		r.Shadow.PreshadowExpand=-1
+
+	- Close and Save Engine.ini then Right click > Properties > Enable Read Only > Press OK
 
 
 # Changing Settings ingame 
