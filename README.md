@@ -39,7 +39,7 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 
 - Copy and Backup the file **"GzGameUserSettings"** to somewhere memorable.
 
-**You *WILL* need your backups so you can maintain your sensitivity and volume settings later in the guide. Make sure to do this step!**
+**You *WILL* need your backups so you can maintain your sensitivity and volume settings if you accidentally make a mistake! Make sure to do this step!**
 
 # Installation of Config files:
 - Press Windows Key + R and type Downloads then press enter.
