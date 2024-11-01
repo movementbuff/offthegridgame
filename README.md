@@ -100,14 +100,14 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
 - Save and exit the file. Do ***NOT*** set the file to Read Only. This is important as doing so would not allow you to change your sensitivity, volume, resolution and scaling methods inside the game menu!
   
 
-- If you wish to improve the appearance of the game, you can re-enable shadows. This greatly improves the quality of the image and can help with spotting players *at the cost of some performance* ( 10-30% depending on system )
+- ***If you wish to improve the appearance of the game***, you can re-enable shadows. This greatly improves the quality of the image and can help with spotting players *at the cost of some performance* ( 10-30% depending on system )
 To do this,
 
 - Right click Engine.ini located in **%localappdata%\G01\Saved\Config\WindowsClient** and select properties then disable 
              Read Only and press Ok.
 
 
-- Open Engine.ini in Notepad and remove these entries. You will find them under [SystemSettings]
+- Open Engine.ini in Notepad and **remove** these entries. You will find them under [SystemSettings]
  	
 		r.ShadowQuality=0
 		r.Shadow.CSM.MaxCascades=0
