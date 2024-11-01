@@ -145,6 +145,10 @@ From my testing; the image quality DLSS provides ( on my system ) is superior in
 # Troubleshooting and User Preferences:
 
 
+**Help! The game is not opening!**
+- 
+This is due to the parameters inside DeviceProfiles.ini. The game will open, it is simply taking a long time to precompile shaders. This should only occur the first time you launch the game after installing the config, however it can happen again after driver updates, game updates, or after clearing the shader cache. If it is worrying you delete the file "DeviceProfiles.ini". Currently this particular file is the least necessary component of the config.
+
 Want to increase or decrease the Sharpness of the image?
 -
 Edit this command from your Engine.ini underneath " [SystemSettings] " if you wish to increase or decrease the level of Sharpening. (higher values sharper, lower more blurry)
