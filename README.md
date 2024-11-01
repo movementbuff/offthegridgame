@@ -73,9 +73,20 @@ Some users may notice similar AVG FPS to their previous settings, however you WI
         "resolutionScaleValue": 0,
         "antiAliasingMethod": 0,
         "dLSSMode": 6,
+   As of the most recent update, Global Illumination will likely force to a setting of "1" when you launch the game. This is fine and doesn't appear to be affecting the performance of the config much, but to keep everything the same 
 
 - ***dLSSMode should now be set to 6,*** not 5 as mentioned in the installation guide on youtube as an optimization patch has just released which has changed this.     
  Set it to 6 rather than 5
+
+***FOR AMD GPU USERS*** please use these settings!
+
+         "resolutionScalingMethod": "FSRResolutionScaling",
+         "resolutionScaleValue": 0,
+         "antiAliasingMethod": 0,
+         "dLSSMode": 6,
+         "fSRQualityMode": 3,
+	  "metalFxQualityMode": "Quality",
+  
 - Next, scroll down towards the bottom of the file and set these entries to match the values shown.
 
        "hideoutMeshMinLODQuality": 0,
