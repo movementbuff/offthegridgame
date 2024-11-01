@@ -186,7 +186,7 @@ Increase the value of this command. Do not set it lower than 0.4, and do not set
 
 "r.ViewDistanceScale="
 
-Your character appears too pixellated now and you want Ninja to look high quality again?
+Character or other textures appear too blocky and pixellated?
 -
 
 Remove the file "DeviceProfiles.ini"
