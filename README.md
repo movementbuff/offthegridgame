@@ -107,7 +107,7 @@ To do this,
              Read Only and press Ok.
 
 
-- Open Engine.ini in Notepad and remove these entries (You will find them under [SystemSettings]
+- Open Engine.ini in Notepad and remove these entries. You will find them under [SystemSettings]
  	
 		r.ShadowQuality=0
 		r.Shadow.CSM.MaxCascades=0
