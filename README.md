@@ -147,9 +147,6 @@ From my testing; the image quality DLSS provides ( on my system ) is superior in
 # Troubleshooting and User Preferences:
 
 
-**Help! The game is not opening!**
-- 
-This is due to the parameters inside DeviceProfiles.ini. The game will open, it is simply taking a long time to precompile shaders. This should only occur the first time you launch the game after installing the config, however it can happen again after driver updates, game updates, or after clearing the shader cache. If it is worrying you delete the file "DeviceProfiles.ini". Currently this particular file is the least necessary component of the config.
 
 Want to increase or decrease the Sharpness of the image?
 -
@@ -186,7 +183,7 @@ Increase the value of this command. Do not set it lower than 0.4, and do not set
 
 "r.ViewDistanceScale="
 
-Character or other textures appear too blocky and pixellated?
+Character or other textures like Smoke appear too blocky and pixellated?
 -
 
 Remove the file "DeviceProfiles.ini"
