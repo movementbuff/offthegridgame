@@ -155,17 +155,17 @@ Edit this command from your Engine.ini underneath " [SystemSettings] " if you wi
 r.Tonemapper.Sharpen=1.1
 
 Map loading incorrectly, weird graphical glitches, character stuck inside the road? Your CPU is likely too weak for the aggressive level streaming commands. 
-Slightly increase these values in increments of 0.1 or 0.2 until the issue is resolved:
+Slightly increase these values in increments of 0.2 - 0.5 until the issue is resolved:
 -
-s.AsyncLoadingTimeLimit=0.2
+s.AsyncLoadingTimeLimit=
 
-s.PriorityAsyncLoadingExtraTime=0.3
+s.PriorityAsyncLoadingExtraTime=
 
-s.LevelStreamingActorsUpdateTimeLimit=0.2
+s.LevelStreamingActorsUpdateTimeLimit=
 
-s.PriorityLevelStreamingActorsUpdateExtraTime=0.8
+s.PriorityLevelStreamingActorsUpdateExtraTime=
 
-s.UnregisterComponentsTimeLimit=0.2
+s.UnregisterComponentsTimeLimit=
 
 
 Have an older GPU like a GTX 1660,  GTX 1080, RTX 2060 or Radeon RX 590, Rx 5600xt etc?
@@ -177,9 +177,9 @@ For most users the current value of 3072 should be fine.
 Do not set it to 0.
 
 
-View Distance too low?
+View Distance too low? *Changing this value is not recommended. It will not affect the render distance of other players.
 -
-Increase the value of this command. Do not set it lower than 0.4, and do not set it higher than 2.
+ Increase the value of this command. Do not set it lower than 0.4, and do not set it higher than 2.
 
 "r.ViewDistanceScale="
 
@@ -187,7 +187,7 @@ Character or other textures like Smoke appear too blocky and pixellated?
 -
 
 Remove the file "DeviceProfiles.ini"
-The game appears to not utilise it fully anyway and from what I can see, DeviceProfiles.ini is only affecting character, UI, and maybe some occasional Effects in the distance. Feel free to remove it but I can't promise FPS stutter won't worsen as a result.
+FPS and stutter will likely worsen without this file but the appearance of the game will improve. Alternatively, if the smoke appearance is the only concern, try removing the Effects and EffectsNotFiltered entries in the file. 
 
 When changing settings inside the config, be mindful of making changes that result in a broken appearance of the game. 
 For example; if you could change a setting and as a result are able to see through walls, do not use that command. Your account *will* receive a suspension, and eventually *the Developers will prevent the entire community from being able to utilise custom configs by restricting the ability for the game to read them.*
