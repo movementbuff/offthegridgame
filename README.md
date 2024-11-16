@@ -172,10 +172,10 @@ s.UnregisterComponentsTimeLimit=
 
 Have an older GPU like a GTX 1660,  GTX 1080, RTX 2060 or Radeon RX 590, Rx 5600xt etc?
 -
-Try lowering the value of this command in increments of 1024.
+Try lowering the value of this command in increments of 512 or 256.
 
-r.Streaming.PoolSize=3072
-For most users the current value of 3072 should be fine.
+r.Streaming.PoolSize=
+For most users the current value of 2048 should be fine.
 Do not set it to 0.
 
 
