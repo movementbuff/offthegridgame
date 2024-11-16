@@ -181,7 +181,7 @@ Do not set it to 0.
 
 View Distance too low? *Changing this value is not recommended. It will not affect the render distance of other players.
 -
- Increase the value of this command. Do not set it lower than 0.4, and do not set it higher than 2.
+ Increase the value of this command. Do not set it lower than 0.4, and do not set it higher than 1.
 
 "r.ViewDistanceScale="
 
