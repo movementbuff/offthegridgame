@@ -1,3 +1,5 @@
+**Updated 16 Nov 2024: Improved Compatibility for all systems especially laptops by raising Level Streaming CVARS under [ConsoleVariables], + minor optimizations regarding lumen as well as broader VRAM budget inclusivity.**
+
 **Updated 2nd Nov 2024: Removed parameters for Preoptimsation of Shaders from DeviceProfiles.ini as it caused longer initial launch times.**
 
 **Updated 1st Nov 2024: Clearly explained how AMD GPU users can use FSR instead of being confused about DLSS, added info regarding Shadows and improving the appearance of the game.**
