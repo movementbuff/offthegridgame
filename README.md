@@ -1,6 +1,6 @@
 
 **Updated 12 Dec 2024:
-Fixed "Red Scope" issue caused by texture quality settings in the config being incompatible with new scope system in todays update. Users must update to the newest version of "DeviceProfiles.ini" to resolve the issue. Alternatively you can simply delete the file "DeviceProfiles.ini" if preferred.**
+Fixed "Red Scope" issue caused by texture quality settings in the config being incompatible with new scope system in today's update. Users must update to the newest version of "DeviceProfiles.ini" to resolve the issue. Alternatively you can simply delete the file "DeviceProfiles.ini" if preferred.**
 -
 
 
