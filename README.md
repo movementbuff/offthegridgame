@@ -1,3 +1,8 @@
+
+**Updated 12 Dec 2024: Fixed issue caused by new scope system in today's update. Update to the newest version of "DeviceProfiles.ini" to resolve the issue.**
+-
+
+
 **Updated 16 Nov 2024: Updated Engine.ini and DeviceProfiles.ini - Improved Compatibility for all systems especially laptops by raising Level Streaming CVARS under [ConsoleVariables], + minor optimizations regarding lumen as well as broader VRAM budget inclusivity.**
 
 **Updated 2nd Nov 2024: Removed parameters for Preoptimsation of Shaders from DeviceProfiles.ini as it caused longer initial launch times.**
