@@ -155,6 +155,9 @@ From my testing; the image quality DLSS provides ( on my system ) is superior in
 # Troubleshooting and User Preferences:
 
 
+GzGameUserSettings.json file is missing some commands?
+-
+After one of the more recent updates, it appears some users json file is not correctly generating the commands for game options. Click this link and follow this extra guide if this applies to you. https://github.com/movementbuff/otgjson
 
 Want to increase or decrease the Sharpness of the image?
 -
