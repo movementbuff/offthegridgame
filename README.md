@@ -1,8 +1,10 @@
+**Updated 22 March 2025:
+Improved Stability (Stutter/Lag), removed entries that may conflict with future updates, re-enabled logging for dev team support.**
+-
+
 
 **Updated 12 Dec 2024:
 Fixed "Red Scope" issue caused by texture quality settings in the config being incompatible with new scope system in today's update. Users must update to the newest version of "DeviceProfiles.ini" to resolve the issue. Alternatively you can simply delete the file "DeviceProfiles.ini" if preferred.**
--
-
 
 **Updated 16 Nov 2024: Updated Engine.ini and DeviceProfiles.ini - Improved Compatibility for all systems especially laptops by raising Level Streaming CVARS under [ConsoleVariables], + minor optimizations regarding lumen as well as broader VRAM budget inclusivity.**
 
