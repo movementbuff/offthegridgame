@@ -1,5 +1,5 @@
 **Updated 22 March 2025:
-Improved Stability (Stutter/Lag), removed entries that may conflict with future updates, re-enabled logging for dev team support.**
+Improved Stability (Stutter/Lag), removed entries that may conflict with future updates, re-enabled logging for dev team support. Users must update "Engine.ini" by downloading the newest version here -> https://github.com/movementbuff/offthegridgame/releases/download/Config/Engine.ini **
 -
 
 
