@@ -1,5 +1,5 @@
 **Updated 22 March 2025:
-Improved Stability (Stutter/Lag), removed some entries that may conflict with future updates, re-enabled logging for Gunzilla dev team support. 
+Possible Improved Stability (Stutter/Lag), removed some entries that may conflict with future updates, re-enabled logging for Gunzilla dev team support. 
 Users must update "Engine.ini" by downloading the newest version with link below: https://github.com/movementbuff/offthegridgame/releases/download/Config/Engine.ini**
 -
 
