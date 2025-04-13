@@ -1,8 +1,10 @@
+**No Longer Functional! Gunzilla has implemented a very similar version of this config which is enabled by setting your ingame Graphic settings to Low, further optimisations and updates will continue... Thanks for your support everyone <3**
+-
+
+
 **Updated 22 March 2025:
 Possible Improved Stability (Stutter/Lag), removed some entries so the config is more future proof for incoming game updates...
 Users must update "Engine.ini" by downloading the newest version with link below: https://github.com/movementbuff/offthegridgame/releases/download/Config/Engine.ini**
--
-
 
 **Updated 12 Dec 2024:
 Fixed "Red Scope" issue caused by texture quality settings in the config being incompatible with new scope system in today's update. Users must update to the newest version of "DeviceProfiles.ini" to resolve the issue. Alternatively you can simply delete the file "DeviceProfiles.ini" if preferred.**
